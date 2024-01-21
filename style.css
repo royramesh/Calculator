@@ -3,9 +3,9 @@
     font-size: large;
 }.container{
     background-color: black;
-    height: min-content;
+    height: max-content;
     width: max-content;
-    overflow: hidden;
+    /* overflow: hidden; */
     border-radius: 10px;
     padding: 5px;
     margin: 0;
@@ -27,13 +27,9 @@
     background-color: #FE9603;
 }
 .input{
-    /* position: relative;
-    top: 5px;
-    left: 5px; 
-    right: 5px; */
     border: none;
     height: 50px;
-    width: 98%;
+    width: 292.2px;
     color: black;
     font-size:x-large;
     border-radius: 5px;
