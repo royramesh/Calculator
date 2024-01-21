@@ -14,18 +14,15 @@
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) ;
-    box-shadow: 5px 5px #333333, 10px 10px #333333;
-    
-
-
 }
 .btn{
     border-radius: 50%;
     height: 50px;
     width: 50px;
-    margin: 10px;
+    margin: 5px;
     background-color: #333333;
     border: none;
+    box-shadow: 1px 1px lightblue;
 }
 .btn-left{
     background-color: #FE9603;
@@ -33,7 +30,7 @@
 .input{
     border: none;
     height: 50px;
-    width: 292.2px;
+    width: 253.5px;
     color: black;
     font-size:x-large;
     border-radius: 5px;
